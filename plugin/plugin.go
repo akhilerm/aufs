@@ -21,7 +21,7 @@ import (
 	"fmt"
 
 	"github.com/containerd/aufs"
-	"github.com/containerd/containerd/platforms"
+	"github.com/containerd/containerd-api/platforms"
 	"github.com/containerd/containerd/plugin"
 )
 
